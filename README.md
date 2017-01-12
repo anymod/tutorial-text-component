@@ -5,10 +5,10 @@
 To begin using this project:
 * Clone the repo: `git clone https://github.com/jframedev/tutorial-text-component.git`
 * Navigate to the directory you cloned into and run:
-  ```
-  npm install
-  npm start
-  ```
+```
+npm install
+npm start
+```
 * Visit `http://localhost:3000` in your browser
 
 ## Bugs and Issues
