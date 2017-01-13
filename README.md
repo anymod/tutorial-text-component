@@ -10,11 +10,11 @@ In this tutorial you will use a web component to render text on a webpage. Once 
 
 There are 2 ways to view the file: by downloading or by cloning this repository.
 
-##### Option A: direct download
+#### Option A: direct download
 
 Download the code as a .zip file using the above [![Clone or download](https://res.cloudinary.com/jframe/image/upload/v1484267460/clone_or_download.png)](https://github.com/jframedev/tutorial-text-component#) button. Unzip the package and view the web page by opening `index.html` with your browser.
 
-##### Option B: `git clone` and run with node
+#### Option B: `git clone` and run with node
 
 * In your terminal window, run
 ```
