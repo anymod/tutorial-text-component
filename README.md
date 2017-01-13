@@ -2,8 +2,7 @@
 
 *This tutorial takes 5-10 minutes.*
 
-### [Demo here](https://tutorial-text-component.herokuapp.com){:target="_blank"}
-### [Demo here](https://tutorial-text-component.herokuapp.com)[newtab]
+### <a href="https://tutorial-text-component.herokuapp.com" target=_blank>Demo here</a>
 
 In this tutorial you will use a web component to render text on a webpage. Once the component is in place, you'll be able to edit the text without touching your code.
 
@@ -13,7 +12,7 @@ There are 2 ways to view the file: by downloading or by cloning this repository.
 
 ##### Option A: direct download
 
-Download all the code using the above ![Clone or download](https://res.cloudinary.com/jframe/image/upload/v1484267460/clone_or_download.png) button. View the web page by directly opening the `index.html` file with your browser.
+Download all the code using the above <a href>![Clone or download](https://res.cloudinary.com/jframe/image/upload/v1484267460/clone_or_download.png)</a> button. View the web page by directly opening the `index.html` file with your browser.
 
 ##### Option B: `git clone` and run with node
 
@@ -30,7 +29,7 @@ npm start
 
 We have a basic landing page that needs some content to describe the main product.
 
-![The web page](img/tutorial-1.png)
+<a href="https://tutorial-text-component.herokuapp.com" target=_blank>![The web page](img/tutorial-1.png)</a>
 
 We could simply hard-code a description, but this is a great example of where the marketing team or a client might want to make changes later. So instead, we can use a jframe text component, which will make it easy to change the content later if we want.
 
@@ -59,7 +58,7 @@ With the jframe component in place, we just need to paste the jframe snippet cod
 
 Now when you reload the page, you get the content from the jframe.
 
-![The web page](img/tutorial-2.png)
+<a href="https://tutorial-text-component.herokuapp.com" target=_blank>![The web page](img/tutorial-2.png)</a>
 
 It's that simple -- your component is working, and you can now edit its content in the jframe dashboard!
 
