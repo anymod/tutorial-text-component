@@ -2,7 +2,8 @@
 
 *This tutorial takes 5-10 minutes.*
 
-### [Demo here](https://tutorial-text-component.herokuapp.com)
+### [Demo here](https://tutorial-text-component.herokuapp.com){:target="_blank"}
+### [Demo here](https://tutorial-text-component.herokuapp.com)[newtab]
 
 In this tutorial you will use a web component to render text on a webpage. Once the component is in place, you'll be able to edit the text without touching your code.
 
