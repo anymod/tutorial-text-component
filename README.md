@@ -62,7 +62,9 @@ Now when you reload the page, you get the content from the jframe.
 
 It's that simple -- your component is working, and you can now edit its content in the jframe dashboard.
 
-[![Sign up](img/sign-up.png)](https://jframe.io/auth/signup) to create your own component and edit it with the dashboard.
+Sign up to create your own component and edit it with the dashboard.
+
+[![Sign up](img/sign-up.png)](https://jframe.io/auth/signup)
 
 ## Extra: behind the scenes
 
