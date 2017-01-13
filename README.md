@@ -2,7 +2,7 @@
 
 *This tutorial takes 5-10 minutes.*
 
-<h3><a href="https://tutorial-text-component.herokuapp.com" target="_blank">Demoz here</a></h3>
+### [Demo here](https://tutorial-text-component.herokuapp.com)
 
 In this tutorial you will use a web component to render text on a webpage. Once the component is in place, you'll be able to edit the text without touching your code.
 
@@ -58,7 +58,7 @@ With the jframe component in place, we just need to paste the jframe snippet cod
 
 Now when you reload the page, you get the content from the jframe.
 
-<a href="https://tutorial-text-component.herokuapp.com" target="_blank">![The web page](img/tutorial-2.png)</a>
+[![The web page](img/tutorial-2.png)](https://tutorial-text-component.herokuapp.com)
 
 It's that simple -- your component is working, and you can now edit its content in the jframe dashboard!
 
