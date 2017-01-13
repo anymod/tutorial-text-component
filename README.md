@@ -12,7 +12,7 @@ There are 2 ways to view the file: by downloading or by cloning this repository.
 
 ##### Option A: direct download
 
-Download all the code using the above <a href="https://github.com/jframedev/tutorial-text-component#">![Clone or download](https://res.cloudinary.com/jframe/image/upload/v1484267460/clone_or_download.png)</a> button. View the web page by directly opening the `index.html` file with your browser.
+Download the code as a .zip file using the above [![Clone or download](https://res.cloudinary.com/jframe/image/upload/v1484267460/clone_or_download.png)](https://github.com/jframedev/tutorial-text-component#) button. Unzip the package and view the web page by opening `index.html` with your browser.
 
 ##### Option B: `git clone` and run with node
 
