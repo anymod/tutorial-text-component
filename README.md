@@ -4,7 +4,7 @@
 
 In this tutorial you will use a web component to render text on a webpage. Once the component is in place, you'll be able to edit the text without touching your code.
 
-### [Demo here](https://tutorial-text-component.herokuapp.com)
+### [Demo here](http://tutorial-text-component-env.9j2xuwmtj3.us-east-1.elasticbeanstalk.com)
 
 ## Getting Started
 
@@ -29,7 +29,7 @@ npm start
 
 We have a basic landing page that needs some content to describe the main product.
 
-[![The web page](img/tutorial-1.png)](https://tutorial-text-component.herokuapp.com)
+[![The web page](img/tutorial-1.png)](http://tutorial-text-component-env.9j2xuwmtj3.us-east-1.elasticbeanstalk.com)
 
 We could simply hard-code a description, but this is a great example of where the marketing team or a client might want to make changes later. So instead, we can use a jframe text component, which will make it easy to change the content later if we want.
 
@@ -49,12 +49,12 @@ With the jframe component in place, we just need to paste the jframe script onto
 
 ```js
 <!-- jframe script -->
-<script src="https://cdn.jframe.io/jframe.js" project="jframe"></script>
+<script src="https://cdn.jframe.io/jframe.js" project="PROJECT-ID"></script>
 ```
 
 Now when you reload the page, you get the content from the jframe.
 
-[![The improved web page](img/tutorial-2.png)](https://tutorial-text-component.herokuapp.com)
+[![The improved web page](img/tutorial-2.png)](http://tutorial-text-component-env.9j2xuwmtj3.us-east-1.elasticbeanstalk.com)
 
 It's that simple -- your component is working, and you can now edit its content in the jframe dashboard.
 
