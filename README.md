@@ -4,7 +4,7 @@
 
 In this tutorial you will use a web component to render text on a webpage. Once the component is in place, you'll be able to edit the text without touching your code.
 
-### [Demo here](http://tutorial-text-component-env.9j2xuwmtj3.us-east-1.elasticbeanstalk.com)
+### [Demo here](http://component-io-tutorials.s3-website-us-east-1.amazonaws.com/tutorial-text-component/dist/)
 
 ## Getting Started
 
@@ -29,7 +29,7 @@ npm start
 
 We have a basic landing page that needs some content to describe the main product.
 
-[![The web page](img/tutorial-1.png)](http://tutorial-text-component-env.9j2xuwmtj3.us-east-1.elasticbeanstalk.com)
+[![The web page](img/tutorial-1.png)](http://component-io-tutorials.s3-website-us-east-1.amazonaws.com/tutorial-text-component/dist/)
 
 We could simply hard-code a description, but this is a great example of where the marketing team or a client might want to make changes later. So instead, we can use a text component, which will make it easy to change the content later if we want.
 
@@ -56,7 +56,7 @@ The project called `tutorial` already has some content we can use. If you want t
 
 Now when you reload the page, you get the content from the component.
 
-[![The improved web page](img/tutorial-2.png)](http://tutorial-text-component-env.9j2xuwmtj3.us-east-1.elasticbeanstalk.com)
+[![The improved web page](img/tutorial-2.png)](http://component-io-tutorials.s3-website-us-east-1.amazonaws.com/tutorial-text-component/dist/)
 
 It's that simple -- your component is working, and you can now edit its content in the Component IO dashboard.
 
