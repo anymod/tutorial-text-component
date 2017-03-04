@@ -29,7 +29,7 @@ npm start
 
 We have a basic landing page that needs some content to describe the main product.
 
-[![The web page](img/tutorial-1.png)](http://component-io-tutorials.s3-website-us-east-1.amazonaws.com/tutorial-text-component/dist/)
+[![The web page](dist/img/tutorial-1.png)](http://component-io-tutorials.s3-website-us-east-1.amazonaws.com/tutorial-text-component/dist/)
 
 We could simply hard-code a description, but this is a great example of where the marketing team or a client might want to make changes later. So instead, we can use a text component, which will make it easy to change the content later if we want.
 
@@ -56,13 +56,13 @@ The project called `tutorial` already has some content we can use. If you want t
 
 Now when you reload the page, you get the content from the component.
 
-[![The improved web page](img/tutorial-2.png)](http://component-io-tutorials.s3-website-us-east-1.amazonaws.com/tutorial-text-component/dist/)
+[![The improved web page](dist/img/tutorial-2.png)](http://component-io-tutorials.s3-website-us-east-1.amazonaws.com/tutorial-text-component/dist/)
 
 It's that simple -- your component is working, and you can now edit its content in the Component IO dashboard.
 
 Sign up to create your own component and edit it with the dashboard.
 
-[![Sign up](img/sign-up.png)](https://component.io/auth)
+[![Sign up](dist/img/sign-up.png)](https://component.io/auth)
 
 ## Extra: behind the scenes
 
